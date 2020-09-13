@@ -26,14 +26,14 @@ Tkinter
 # Screenshots
 <p float="left">
   <img src="Images%20for%20Gui/Screenshot%20(103).png" width="400" />
-  <img src="Images%20for%20Gui/Screenshot%20(105).png" width="425"  height="250" />
+  <img src="Images%20for%20Gui/Screenshot%20(105).png" width="425"  height="287" />
 </p>
 <p float="left">
   <img src="Images%20for%20Gui/Screenshot%20(107).png" width="400" />
-  <img src="Images%20for%20Gui/Screenshot%20(106).png" width="425" height="250" />
+  <img src="Images%20for%20Gui/Screenshot%20(106).png" width="425" height="287" />
 </p> 
 <p float="left">
-  <img src="Images%20for%20Gui/Screenshot%20(108).png" width="400" height="300"/>
+  <img src="Images%20for%20Gui/Screenshot%20(108).png" width="400" height="330"/>
   <img src="Images%20for%20Gui/Screenshot%20(109).png" width="425"  />
 </p>
 
